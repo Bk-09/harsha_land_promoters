@@ -1,16 +1,18 @@
-# harsha
+# Harsha Land Promoters-The Mobile App
 
-A new Flutter project.
+The mobile app implementation
 
-## Getting Started
+## Prerequisite: 
+* Flutter SDK (which includes Dart SDK) should be installed and running in your system (check 'flutter --version')
 
-This project is a starting point for a Flutter application.
+## Steps to test the code 
 
-A few resources to get you started if this is your first Flutter project:
+* Clone the repository and unzip it into desired folder, preferred folder name: 'harsha'.
+* Open the folder with VS Code or any IDE
+* If you get an option to 'get' or 'download' any 'dependencies' or 'packages', must do. Else, the process is automated.
+* Connect a phone to the system via USB, turn on USB debugging options in phone, allow for the system.
+* In VScode, press Ctr+Shift+P:
+        *run: select device
+        *select your mobile device
+*Run without debugging
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
